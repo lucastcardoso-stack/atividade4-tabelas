@@ -1,0 +1,23 @@
+body{
+    margin: 40px;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+img, video{
+    border: 3px dotted orange;
+    padding: 5px;
+}
+
+footer{
+    margin-top: 30px;
+    padding: 15px;
+    border-top: 3px dotted orange;
+    background-color: #fff3e0;
+    text-align: center;
+    color: #555;
+}
